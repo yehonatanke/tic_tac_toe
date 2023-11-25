@@ -48,4 +48,4 @@ Player X wins!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/yehonatanke/tic_tac_toe/blob/main/LICENSE).
