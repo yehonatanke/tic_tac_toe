@@ -40,9 +40,19 @@ Player O, enter the column (0, 1, or 2): 2
 ```bash
  |X| 
 -----
+ |X|O
+-----
+ | |O
+```
+
+Player X, enter the row (0, 1, or 2): 2
+Player X, enter the column (0, 1, or 2): 1
+```bash
  |X| 
 -----
- |O| 
+ |X|O
+-----
+ |X|O
 ```
 Player X wins!
 
