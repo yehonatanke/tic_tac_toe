@@ -24,6 +24,7 @@ python tic_tac_toe.py
  | | 
 ```
 Player X, enter the row (0, 1, or 2): 1
+
 Player X, enter the column (0, 1, or 2): 1
 
 ```bash
@@ -36,6 +37,7 @@ Player X, enter the column (0, 1, or 2): 1
 ...
 
 Player O, enter the row (0, 1, or 2): 2
+
 Player O, enter the column (0, 1, or 2): 2
 ```bash
  |X| 
@@ -46,6 +48,7 @@ Player O, enter the column (0, 1, or 2): 2
 ```
 
 Player X, enter the row (0, 1, or 2): 2
+
 Player X, enter the column (0, 1, or 2): 1
 ```bash
  |X| 
