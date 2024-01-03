@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://img.shields.io/badge/language-Python-%233776AB.svg?logo=python">
+  <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law">
+</div>
+
+
 # Tic-Tac-Toe Game
 
 This is a simple implementation of the classic Tic-Tac-Toe game in Python. Players take turns to make a move, and the game checks for a winner or a tie after each move.
